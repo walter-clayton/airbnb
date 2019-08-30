@@ -27,4 +27,3 @@ Click here: [Demo](https://walter-clayton.github.io/airbnb/)
 * Exercises from [BeCode](https://www.becode.org)
 * Inspiration from [Airbnb](https://www.airbnb.com)
 
-
