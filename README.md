@@ -4,6 +4,7 @@ This is an exercise to practice responsive web design with HTML5 and CSS3.
 
 Click here: [Demo](https://walter-clayton.github.io/airbnb/)
 
+
 ![](./images/demo.png)
 
 
