@@ -3,7 +3,7 @@ body	{
 
 	background-image: url("https://a0.muscache.com/pictures/a430c412-63bc-45f5-8a13-55647449a0b1.jpg");
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: contain;
 	font-family: Helvetica, Roboto, sans-serif;
 }
 
