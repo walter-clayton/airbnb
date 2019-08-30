@@ -4,7 +4,7 @@ This is an exercise to practice responsive web design with HTML5 and CSS3.
 
 Click here: [Demo](https://walter-clayton.github.io/airbnb/)
 
-<img src="./images/demo.png" style="width:30%;">
+![](./images/demo.png)
 
 
 ## Built with
@@ -17,7 +17,7 @@ Click here: [Demo](https://walter-clayton.github.io/airbnb/)
 
 * **Walter Clayton** - *Airbnb* - [github profil](https://github.com/votreProfil)
 
-    * **LinkedIn account** : [LinkedIn](https://www.linkedin.com/votreProfil)
+    * **LinkedIn account** : [LinkedIn](https://www.linkedin.com/in/walter-clayton-2b50b4191/)
 
 ## Appreciation
 
